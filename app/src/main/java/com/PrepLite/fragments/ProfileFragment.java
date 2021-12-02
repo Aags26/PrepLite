@@ -142,6 +142,7 @@ public class ProfileFragment extends Fragment {
         username = frag_view.findViewById(R.id.batch_profile);
         email = frag_view.findViewById(R.id.email_profile);
         contact = frag_view.findViewById(R.id.contact_profile);
+
         return frag_view;
     }
 
